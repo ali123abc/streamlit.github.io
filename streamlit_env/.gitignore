@@ -1,0 +1,4 @@
+# Ignore secrets file
+secrets.toml
+
+# Other rules...
